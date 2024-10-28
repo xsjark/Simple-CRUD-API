@@ -10,8 +10,6 @@ This API provides a simple interface for managing items. Built with Express.js a
 - [Endpoints](#endpoints)
 - [Usage Examples](#usage-examples)
 - [Setup](#setup)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Authentication
 
