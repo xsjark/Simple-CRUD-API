@@ -1,0 +1,4 @@
+curl -X POST http://localhost:3000/items \
+  -H "Authorization: Bearer {put token here}" \
+  -H "Content-Type: application/json" \
+  -d '{"name": "New Item", "description": "This is a new item"}'
